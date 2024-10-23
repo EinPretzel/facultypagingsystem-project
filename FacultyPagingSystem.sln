@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacultyPagingSystem", "FacultyPagingSystem\FacultyPagingSystem.csproj", "{2D776987-2757-4385-A6F8-F330A9F1AE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D776987-2757-4385-A6F8-F330A9F1AE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D776987-2757-4385-A6F8-F330A9F1AE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D776987-2757-4385-A6F8-F330A9F1AE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D776987-2757-4385-A6F8-F330A9F1AE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC3F89D-E106-45DF-BA00-3D755B27CE78}
+	EndGlobalSection
+EndGlobal
